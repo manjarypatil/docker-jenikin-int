@@ -1,4 +1,4 @@
 FROM openjdk:8
 EXPOSE 8080
-ADD target/docker-jenikin-int.jar docker-jenikin-int.jar
+ADD target/docker-jenkin-int.jar docker-jenkin-int.jar
 ENTRYPOINT ["java ","-jar","/docker-jenikin-int.jar]

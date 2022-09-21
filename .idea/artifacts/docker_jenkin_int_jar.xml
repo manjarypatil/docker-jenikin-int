@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="docker-jenkin-int:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/docker_jenkin_int_jar</output-path>
+    <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="docker-jenkin-int.jar">
       <element id="module-output" name="docker-jenkin-int" />
     </root>
